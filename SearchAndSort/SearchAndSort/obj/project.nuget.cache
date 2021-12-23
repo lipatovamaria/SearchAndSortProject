@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oKxcSMgm/baESQKe+Wb71FH8WbMP93Jhm90hgar69NoYfPpBFshx8fISp9QMFrulrEQ0i3KD9UrH601zHC46og==",
+  "success": true,
+  "projectFilePath": "C:\\Resume\\SearchAndSort\\SearchAndSort\\SearchAndSort\\SearchAndSort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
